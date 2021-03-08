@@ -16,6 +16,8 @@ public class Person  {
     private LocalDate dateOfBirth;
     private int weight;
     private int test;
+    private int gtest;
+    
 
     public Person(String name, LocalDate dateOfBirth, int weight) {
         this.name = name;
